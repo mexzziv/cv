@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.perfil{
+  width: 200px;
+  height: 200px;
+}
+.header-cv{
+  padding:2.5em;
+  background-color: #01475B;
+  color: white;
+}
+
+.padding{
+  padding: 2.5em;
+}
+
+.title-div{
+  background-color: #019575;
+  padding:1em;
+}
+
+.top{
+  margin-top: 15px;
+}
+.light{
+  background-color: #8AEBB2;
+}
+
+.card-style{
+  padding: 1em;
+  text-align: justify;
+}
